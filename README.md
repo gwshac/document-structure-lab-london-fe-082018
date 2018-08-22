@@ -1,5 +1,5 @@
 # Document Structure Continued
-
+<!DOCTYPE HTML>
 ## Problem Statement
 
 Every HTML document has a specific set of required tags. Because these are
